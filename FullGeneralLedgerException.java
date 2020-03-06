@@ -1,9 +1,6 @@
 /**
  * @author Rohan Dayal
  * 
-*/
-package cse214;
-/**
  * 
  * class defines FullGeneralLedgerException and extends Exception.
  * Should be thrown when seeking to add Transaction to a GeneralLedger
