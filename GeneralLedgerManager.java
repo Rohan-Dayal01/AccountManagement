@@ -1,9 +1,6 @@
 /**
  * This class represents a GeneralLedgerManager which drives the program
  * @author Rohan Dayal
- * ID Num: 112768867
- * Recitation 02
-
 */
 package cse214;
 import java.text.ParseException;
