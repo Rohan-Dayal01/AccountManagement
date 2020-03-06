@@ -1,12 +1,5 @@
 /**
  * @author Rohan Dayal
- * ID Num: 112768867
- * Recitation 02
- * 
-*/
-
-package cse214;
-/**
  * defines class for TransactionAlreadyExistsException and extends Exception
  * Specified when to call in GeneralLedger class
  *
