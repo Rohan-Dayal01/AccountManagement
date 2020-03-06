@@ -1,11 +1,6 @@
 /**
  * @author Rohan Dayal
- * ID Num: 112768867
- * Recitation 02
  * 
-*/
-package cse214;
-/**
  * class defines InvalidLedgerPositionException and extends Exception.
  * Should be thrown when ledger position value entered is invalid
  *
