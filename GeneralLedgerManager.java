@@ -2,7 +2,7 @@
  * This class represents a GeneralLedgerManager which drives the program
  * @author Rohan Dayal
 */
-package cse214;
+
 import java.text.ParseException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
