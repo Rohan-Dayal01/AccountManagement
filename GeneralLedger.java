@@ -3,7 +3,7 @@
  * 
 */
 
-package cse214;
+
 /**
  * This class defines a GeneralLedger which is the primary object utilized
  * in this bank ledger application. GeneralLedger has MAX_TRANSACTIONS,
