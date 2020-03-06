@@ -1,7 +1,5 @@
 /**
  * @author Rohan Dayal
- * ID Num: 112768867
- * Recitation 02
  * 
 */
 
