@@ -1,9 +1,6 @@
-package cse214;
 
 /**
  * @author Rohan Dayal
- * ID Num: 112768867
- * Recitation 02
  * 	
  * This class represents a Transaction that has a description, amount, and date
  */
